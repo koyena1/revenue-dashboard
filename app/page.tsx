@@ -1,4 +1,4 @@
-import RevenueChart from "@/components/charts/RevenueChart";
+import RevenueChart from '../components/charts/RevenueChart';
 
 export default function Home() {
   return (
